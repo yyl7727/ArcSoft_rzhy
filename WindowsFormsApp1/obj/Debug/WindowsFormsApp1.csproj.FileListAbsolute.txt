@@ -1,0 +1,13 @@
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\bin\Debug\sdk\libarcsoft_fsdk_face_recognition.dll
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\bin\Debug\sdk\libarcsoft_fsdk_fic.dll
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\bin\Debug\sdk\libarcsoft_fsdk_face_detection.dll
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\bin\Debug\sdk\libarcsoft_fsdk_face_tracking.dll
+C:\Users\y\Desktop\hrdemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
